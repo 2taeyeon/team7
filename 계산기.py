@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-=======
 def add(x, y):
     return x + y
 
 
->>>>>>> 173655e7d32d70f9efd603ad619a85cde07a0443
 def operation(num1, operator, num2):
 
     if operator == "+":
